@@ -16,7 +16,7 @@ class MyApp extends StatefulWidget {
 class MyAppState extends State<MyApp> {
   String str = 'disable';
   bool check = true;
-
+  String commit = '커밋이 왜 안되는거지?';
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
