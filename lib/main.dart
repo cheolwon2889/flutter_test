@@ -19,6 +19,7 @@ class MyWidget extends StatelessWidget {
               IconButton(onPressed: (){}, icon: Icon(Icons.check_box, size: 20,)),
               Text('Disable')
             ],
+            mainAxisAlignment: MainAxisAlignment.center,
           ),
         ),
       ),
