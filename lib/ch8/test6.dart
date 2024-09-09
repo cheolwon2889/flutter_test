@@ -82,6 +82,7 @@ class MyColorItemWidgetState1 extends State<MyColorItemWidget1>{
 
   @override
   Widget build(BuildContext context) {
+  print(this.color);
     return Expanded(
         child: Container(
           color: color,
