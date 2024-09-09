@@ -1,11 +1,11 @@
-import 'package:flutter/cupertino.dart';
+
 import 'package:flutter/material.dart';
 
 main() {
-  runApp(MyWidget());
+  runApp(MyApp());
 }
 
-class MyWidget extends StatelessWidget {
+class MyApp extends StatelessWidget {
 
 
   @override
