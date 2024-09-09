@@ -85,8 +85,8 @@ class MyColorItemWidgetState1 extends State<MyColorItemWidget1>{
     return Expanded(
         child: Container(
           color: color,
-          width: 150,
-          height: 150,
+          width: 140,
+          height: 140,
         )
     );
   }
